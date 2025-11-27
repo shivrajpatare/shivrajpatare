@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-neon.svg" alt="Shivraj Patare — AI & ML" width="100%"/>
+  <img src="./banner-animated.svg" width="100%"/>
 </p>
 
 # Shivraj Patare — AI & ML Engineer
