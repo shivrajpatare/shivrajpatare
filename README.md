@@ -1,73 +1,80 @@
-# 👋 Hi, I'm **Shivraj Patare**
-### *AI/ML Engineer · NLP · Generative AI · Researcher*
+<!-- README.md - Interactive Portfolio for Shivraj Patare -->
 
-Passionate AI/ML Engineer currently pursuing my **M.Sc. in Artificial Intelligence & Machine Learning**  
-with hands-on experience in generative AI, NLP, prompt engineering, and full-stack ML development.  
-Published researcher working at the intersection of **AI, society, and scalable engineering**.  
-:contentReference[oaicite:1]{index=1}
+<p align="center">
+  <!-- Animated banner (place banner.svg in repo root) -->
+  <img src="./banner.svg" alt="Shivraj Patare — AI & ML" width="100%" />
+</p>
 
----
+<h1 align="center">👋 Hi, I'm <strong>Shivraj Patare</strong></h1>
+<p align="center">
+  <em>AI/ML Engineer • NLP • Generative AI • Researcher</em>
+</p>
 
-## 🚀 About Me
-- 🎓 **M.Sc. AI & ML (2024–2026)** — MIT ADT University, Pune (CGPA: 8.35/10)  
-- 🎓 **BCA (2020–2023)** — Presidency College, Bengaluru  
-- 🧠 Strong interest in **Generative AI**, **NLP**, **Voice AI**, **AI Socioeconomic Research**  
-- 🛠️ Love building **end-to-end systems**: concept → model → API → frontend → deployment  
-:contentReference[oaicite:2]{index=2}
-
----
-
-## 🛠 Tech Stack
-**Languages:** Python, C/C++, JavaScript  
-**AI/ML:** PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace, LangChain, OpenAI API  
-**Data:** SQL, MongoDB, Pandas, NumPy, Power BI  
-**Backend:** FastAPI, Flask  
-**Tools:** GitHub, Docker, Linux, VS Code, Jupyter, Streamlit, Gradio  
-**Cloud:** GCP, Firebase, AWS (basic), Vercel, Render  
-:contentReference[oaicite:3]{index=3}
+<p align="center">
+  <!-- Replace USERNAME below with your GitHub username -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-@shivrajpatare-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:shivrajpatare@gmail.com"><img src="https://img.shields.io/badge/Email-Email%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
 ---
 
-## 📌 Key Projects
-### **CareerCrafter – Smart Career Guidance**  
-Personalized career guidance platform combining psychology + predictive analytics + GenAI.  
-GitHub: https://github.com/shivrajpatare/CareerCrafter  
-Live: https://career-crafter-nine.vercel.app  
-:contentReference[oaicite:4]{index=4}
+## 🔭 About / Snapshot
+> Passionate AI/ML engineer pursuing M.Sc. in AI & ML. I build research-driven systems, production-ready ML pipelines, and generative/NLP solutions. (Resume source: uploaded resume). :contentReference[oaicite:0]{index=0}
 
-### **IngreScan-AI – Food Ingredient Analyzer**  
-AI-powered scanner detecting harmful ingredients (WHO/FSSAI rules).  
-GitHub: https://github.com/shivrajpatare/IngreScan-AI  
-Live: https://foodriskanaly-yjkguatc.manus.space  
-:contentReference[oaicite:5]{index=5}
-
-### **Kaizuna App — Productivity Tool**  
-Stores professional handles for fast job applications.  
-GitHub: https://github.com/shivrajpatare/Kaizuna-App  
-:contentReference[oaicite:6]{index=6}
+- 🎓 M.Sc. AI & ML — MIT ADT University (2024–2026) — CGPA: 8.35/10.  
+- 🧪 Researcher — published on socioeconomic impacts of AI. :contentReference[oaicite:1]{index=1}  
+- 💡 I turn research into product — prototyping → evaluation → deployment.
 
 ---
 
-## 📄 Research
-**“The Socioeconomic Impact of AI: Profit-Driven Growth & the Struggle for Control”**  
-Published in the *Journal of Collective Sciences and Sustainability* (2025).  
-Focus: economic impact, social equity, AI governance, policy gaps, regulatory solutions.  
-:contentReference[oaicite:7]{index=7}
+## ✨ Quick interactive highlights
+<details>
+<summary><strong>Click to expand: Key achievements & live demos</strong></summary>
+
+- 🔗 **CareerCrafter — Smart Career Guidance** — Live demo & full code.  
+  <kbd>Demo:</kbd> https://career-crafter-nine.vercel.app · <kbd>GitHub:</kbd> `shivrajpatare/CareerCrafter`. :contentReference[oaicite:2]{index=2}
+
+- 🔗 **IngreScan-AI — Food Ingredient Analyzer** — label scanner + allergen/hazard checks.  
+  <kbd>Live:</kbd> https://foodriskanaly-yjkguatc.manus.space · <kbd>GitHub:</kbd> `shivrajpatare/IngreScan-AI`. :contentReference[oaicite:3]{index=3}
+
+- 🔗 **Kaizuna App — Productivity Tool** — store and copy your professional handles quickly.  
+  <kbd>GitHub:</kbd> `shivrajpatare/Kaizuna-App`. :contentReference[oaicite:4]{index=4}
+
+</details>
 
 ---
 
-## 🏆 Certifications
-- Deep Learning Specialization — Deeplearning.AI  
-- Generative AI — Analytics Vidhya  
-- GenAI for Everyone — Analytics Vidhya  
-- Prompt Engineering Workshop — MIT ADT & IEEE Pune  
-- AI-ML Virtual Internship — AICTE & Google  
-:contentReference[oaicite:8]{index=8}
+## 🧰 Tech stack (hover for focus)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,docker,linux,fastapi,flask,tf" alt="tech stack" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: **https://linkedin.com/in/shivrajpatare**  
-- GitHub: **https://github.com/shivrajpatare**  
-- Email: **shivrajpatarre@gmail.com**
+## 📂 Featured Projects (interactive cards)
 
+> **Drop screenshots or short GIFs into `assets/` and replace the placeholders below**  
+> Example file paths used: `assets/careercrafter.gif`, `assets/ingrescan.gif`, `assets/kaizuna.gif`
+
+<details>
+<summary><strong>CareerCrafter — Smart Career Guidance</strong></summary>
+
+**What:** Personalized career guidance platform combining predictive analytics + generative AI.  
+**Tech:** Python, FastAPI, LangChain, Hugging Face, React, Vercel.  
+**Live:** https://career-crafter-nine.vercel.app  
+**Repo:** https://github.com/shivrajpatare/CareerCrafter
+
+<p float="left">
+  <img src="./assets/careercrafter.gif" alt="CareerCrafter Demo" width="420" style="border-radius:8px;"/>
+  <img src="./assets/careercrafter-arch.svg" alt="Architecture" width="240" style="border-radius:8px; margin-left:12px;"/>
+</p>
+
+**Quick demo commands**
+```bash
+# clone and run (example)
+git clone https://github.com/shivrajpatare/CareerCrafter.git
+cd CareerCrafter
+pip install -r requirements.txt
+# set env vars and run
+uvicorn app.main:app --reload
