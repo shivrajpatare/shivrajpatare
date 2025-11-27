@@ -2,7 +2,7 @@
   <img src="./banner-neon.svg" alt="Shivraj Patare — AI & ML" width="100%"/>
 </p>
 
-# 🌌 Shivraj Patare — AI & ML Engineer
+# Shivraj Patare — AI & ML Engineer
 ### *Master’s Student — AI & ML | Researcher | Builder of Impactful AI Solutions*
 
 <p align="center">
