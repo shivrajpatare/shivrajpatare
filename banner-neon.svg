@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- banner-neon.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid slice">
   <defs>
     <!-- Neon gradient -->
@@ -24,17 +22,15 @@
       <path d="M0 40 L40 0" stroke="rgba(255,255,255,0.03)" stroke-width="2"/>
     </pattern>
 
-    <style type="text/css"><![CDATA[
+    <style type="text/css">
       .bg { fill: #0b0f1a; }
       .grid { fill: url(#stripes); opacity: 0.9; }
-      .title { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:700; letter-spacing:1px; }
-      .subtitle { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:500; opacity:0.9; }
+      .title { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight: 700; letter-spacing: 1px; }
+      .subtitle { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight: 500; opacity: 0.9; }
       .neon { fill: url(#g1); filter: url(#glow); }
-      /* Animated scanning bar */
-      .scan { fill: url(#g1); opacity:0.08; transform-origin:center; }
-      /* floating lines */
-      .line { stroke: url(#g1); stroke-width:1.8; stroke-linecap:round; opacity:0.9; filter: url(#glow); }
-    ]]></style>
+      .scan { fill: url(#g1); opacity: 0.08; transform-origin: center; }
+      .line { stroke: url(#g1); stroke-width: 1.8; stroke-linecap: round; opacity: 0.9; filter: url(#glow); }
+    </style>
   </defs>
 
   <!-- background -->
