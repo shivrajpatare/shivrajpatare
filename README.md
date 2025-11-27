@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Shivraj Patare Banner"/>
-</p>
-
 # 👋 Hi, I'm **Shivraj Patare**
 ### *AI/ML Engineer · NLP · Generative AI · Researcher*
 
