@@ -1,67 +1,77 @@
 <p align="center">
-  <img src="./banner-animated.svg" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Shivraj Patare Banner"/>
 </p>
 
-# Shivraj Patare — AI & ML Engineer
-### *Master’s Student — AI & ML | Researcher | Builder of Impactful AI Solutions*
+# 👋 Hi, I'm **Shivraj Patare**
+### *AI/ML Engineer · NLP · Generative AI · Researcher*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=680&height=40&color=00F5FF&center=true&vCenter=true&lines=Building+intelligent+systems+%7C+NLP+%7C+Deep+Learning+%7C+Research" alt="typing" />
-</p>
+Passionate AI/ML Engineer currently pursuing my **M.Sc. in Artificial Intelligence & Machine Learning**  
+with hands-on experience in generative AI, NLP, prompt engineering, and full-stack ML development.  
+Published researcher working at the intersection of **AI, society, and scalable engineering**.  
+:contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🚀 About Me
-I’m **Shivraj Patare**, a Master's student in **Artificial Intelligence & Machine Learning**. I build research-driven ML systems, publish papers, and ship real-world AI products that make an impact.
-
-- 🔭 Currently: NLP & LLM research, production ML pipelines, and publishing research.
-- 🎯 Interests: Natural Language Processing, Deep Learning, Vision, Model Deployment, MLOps.
-- 🧩 Strengths: Research → Prototyping → Deploy; strong storytelling & technical writing.
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,linux,opencv,react,docker,postgres" alt="tech stack" />
-</p>
+- 🎓 **M.Sc. AI & ML (2024–2026)** — MIT ADT University, Pune (CGPA: 8.35/10)  
+- 🎓 **BCA (2020–2023)** — Presidency College, Bengaluru  
+- 🧠 Strong interest in **Generative AI**, **NLP**, **Voice AI**, **AI Socioeconomic Research**  
+- 🛠️ Love building **end-to-end systems**: concept → model → API → frontend → deployment  
+:contentReference[oaicite:2]{index=2}
 
 ---
 
-## 🔭 Featured Projects
-- **NLP Research Project** — (Research paper + code) — Transformer-based models for [your topic].  
-- **Image/Video Classifier** — End-to-end pipeline (dataset → augmentation → training → deployment).  
-- **LLM Prototyping** — Prompt engineering, fine-tuning experiments, evaluation scripts.
-
-> Check the `projects/` folder for runnable demos and notebooks.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&theme=radical" />
-</p>
+## 🛠 Tech Stack
+**Languages:** Python, C/C++, JavaScript  
+**AI/ML:** PyTorch, TensorFlow, Keras, Scikit-Learn, HuggingFace, LangChain, OpenAI API  
+**Data:** SQL, MongoDB, Pandas, NumPy, Power BI  
+**Backend:** FastAPI, Flask  
+**Tools:** GitHub, Docker, Linux, VS Code, Jupyter, Streamlit, Gradio  
+**Cloud:** GCP, Firebase, AWS (basic), Vercel, Render  
+:contentReference[oaicite:3]{index=3}
 
 ---
 
-## ✨ Get in touch
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivrajpatare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shivrajpatare.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shivrajpatare"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 📌 Key Projects
+### **CareerCrafter – Smart Career Guidance**  
+Personalized career guidance platform combining psychology + predictive analytics + GenAI.  
+GitHub: https://github.com/shivrajpatare/CareerCrafter  
+Live: https://career-crafter-nine.vercel.app  
+:contentReference[oaicite:4]{index=4}
+
+### **IngreScan-AI – Food Ingredient Analyzer**  
+AI-powered scanner detecting harmful ingredients (WHO/FSSAI rules).  
+GitHub: https://github.com/shivrajpatare/IngreScan-AI  
+Live: https://foodriskanaly-yjkguatc.manus.space  
+:contentReference[oaicite:5]{index=5}
+
+### **Kaizuna App — Productivity Tool**  
+Stores professional handles for fast job applications.  
+GitHub: https://github.com/shivrajpatare/Kaizuna-App  
+:contentReference[oaicite:6]{index=6}
 
 ---
 
-## 🛠️ How to use this repo
-1. Replace `YOUR_GITHUB_USERNAME`, `YOUR-LINKEDIN`, `your@email.com` with your details.  
-2. Put `banner-neon.svg` in the repo root (or adjust path in README).  
-3. Add your projects into `projects/` and update the project list above.  
-4. Optional: convert `banner-neon.svg` to `banner-fallback.gif` (if GitHub strips the animation).
+## 📄 Research
+**“The Socioeconomic Impact of AI: Profit-Driven Growth & the Struggle for Control”**  
+Published in the *Journal of Collective Sciences and Sustainability* (2025).  
+Focus: economic impact, social equity, AI governance, policy gaps, regulatory solutions.  
+:contentReference[oaicite:7]{index=7}
 
 ---
 
-## ✍️ Quote
-> “I don't just write code — I craft experiences, solve problems, and build the future one model at a time.”
+## 🏆 Certifications
+- Deep Learning Specialization — Deeplearning.AI  
+- Generative AI — Analytics Vidhya  
+- GenAI for Everyone — Analytics Vidhya  
+- Prompt Engineering Workshop — MIT ADT & IEEE Pune  
+- AI-ML Virtual Internship — AICTE & Google  
+:contentReference[oaicite:8]{index=8}
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: **https://linkedin.com/in/shivrajpatare**  
+- GitHub: **https://github.com/shivrajpatare**  
+- Email: **shivrajpatarre@gmail.com**
+
