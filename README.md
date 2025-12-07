@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,30&amp;height=300&amp;section=header&amp;text=Shivraj%20Patare&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20and%20ML%20Engineer&amp;descAlignY=60&amp;descSize=25&amp;fontColor=ffffff" width="100%" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=300&section=header&text=Shivraj%20Patare&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20ML%20Engineer&descAlignY=60&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00F260&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Player+1+Selected:+Shivraj;Loading+AI+Models...;Initializing+Neural+Networks...;System+Ready." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00F260&center=true&vCenter=true&width=800&lines=Player+1+Selected:+Shivraj;Loading+AI+Models...;Initializing+Neural+Networks...;System+Ready." alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,6 +21,7 @@
 <br/>
 
 ## 🚀 Mission Objectives
+
 I am a Master's student specializing in **Artificial Intelligence & Machine Learning**. I don't just write code; I craft systems that solve real-world problems. My current quest involves pushing the boundaries of NLP and Deep Learning.
 
 - 🔭 **Current Quest**: Researching Large Language Models & Production ML.
@@ -32,7 +33,7 @@ I am a Master's student specializing in **Artificial Intelligence & Machine Lear
 ## 🎒 Inventory (Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,linux,opencv,react,docker,postgres,aws,gcp,wandb,fastapi&amp;perline=8&amp;theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,linux,opencv,react,docker,postgres,aws,gcp,fastapi&perline=8&theme=dark" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -43,11 +44,11 @@ I am a Master's student specializing in **Artificial Intelligence & Machine Lear
 
 | **Commits & PRs** | **Contribution Snake** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000" width="100%" /> | <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game (Runs Daily)" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" /> | <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game (Runs Daily)" /> |
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&amp;theme=radical&amp;hide_border=true&amp;background=00000000" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&theme=radical&hide_border=true&background=00000000" width="80%" />
 
 </div>
 
@@ -79,6 +80,6 @@ I am a Master's student specializing in **Artificial Intelligence & Machine Lear
 
 <br/><br/>
 
-![Footer Animation](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer)
+![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
