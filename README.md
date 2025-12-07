@@ -1,80 +1,84 @@
-<!-- README.md - Interactive Portfolio for Shivraj Patare -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=300&section=header&text=Shivraj%20Patare&fontSize=90&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Researcher&descAlign=50&descAlignY=55&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00F260&center=true&vCenter=true&width=500&lines=Player+1+Selected:+Shivraj;Loading+AI+Models...;Initializing+Neural+Networks...;System+Ready." alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <!-- Animated banner (place banner.svg in repo root) -->
-  <img src="./banner.svg" alt="Shivraj Patare — AI & ML" width="100%" />
-</p>
+<br/>
 
-<h1 align="center">👋 Hi, I'm <strong>Shivraj Patare</strong></h1>
-<p align="center">
-  <em>AI/ML Engineer • NLP • Generative AI • Researcher</em>
-</p>
+<div align="center">
+  
+| 🕹️ **CHARACTER STATS** |
+| :---: |
+| **Name:** Shivraj Patare <br/> **Class:** AI/ML Engineer <br/> **Level:** Master's Student <br/> **Special Ability:** Deploying Scalable ML Systems |
 
-<p align="center">
-  <!-- Replace USERNAME below with your GitHub username -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-@shivrajpatare-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:shivrajpatare@gmail.com"><img src="https://img.shields.io/badge/Email-Email%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-</p>
+</div>
 
----
+<br/>
 
-## 🔭 About / Snapshot
-> Passionate AI/ML engineer pursuing M.Sc. in AI & ML. I build research-driven systems, production-ready ML pipelines, and generative/NLP solutions. (Resume source: uploaded resume). :contentReference[oaicite:0]{index=0}
+## 🚀 Mission Objectives
+I am a Master's student specializing in **Artificial Intelligence & Machine Learning**. I don't just write code; I craft systems that solve real-world problems. My current quest involves pushing the boundaries of NLP and Deep Learning.
 
-- 🎓 M.Sc. AI & ML — MIT ADT University (2024–2026) — CGPA: 8.35/10.  
-- 🧪 Researcher — published on socioeconomic impacts of AI. :contentReference[oaicite:1]{index=1}  
-- 💡 I turn research into product — prototyping → evaluation → deployment.
+- 🔭 **Current Quest**: Researching Large Language Models & Production ML.
+- 🎯 **Target Lock**: Natural Language Processing, Computer Vision, MLOps.
+- 🛠️ **Equipped Gear**: Python, PyTorch, TensorFlow, Docker, AWS.
 
----
+<br/>
 
-## ✨ Quick interactive highlights
-<details>
-<summary><strong>Click to expand: Key achievements & live demos</strong></summary>
+## 🎒 Inventory (Tech Stack)
 
-- 🔗 **CareerCrafter — Smart Career Guidance** — Live demo & full code.  
-  <kbd>Demo:</kbd> https://career-crafter-nine.vercel.app · <kbd>GitHub:</kbd> `shivrajpatare/CareerCrafter`. :contentReference[oaicite:2]{index=2}
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,linux,opencv,react,docker,postgres,aws,gcp,wandb,fastapi&perline=8&theme=dark" alt="Tech Stack" />
+</div>
 
-- 🔗 **IngreScan-AI — Food Ingredient Analyzer** — label scanner + allergen/hazard checks.  
-  <kbd>Live:</kbd> https://foodriskanaly-yjkguatc.manus.space · <kbd>GitHub:</kbd> `shivrajpatare/IngreScan-AI`. :contentReference[oaicite:3]{index=3}
+<br/>
 
-- 🔗 **Kaizuna App — Productivity Tool** — store and copy your professional handles quickly.  
-  <kbd>GitHub:</kbd> `shivrajpatare/Kaizuna-App`. :contentReference[oaicite:4]{index=4}
+## 🏆 High Scores
 
-</details>
+<div align="center">
 
----
+| **Commits & PRs** | **Contribution Snake** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" /> | <img src="https://github.com/shivrajpatare/shivrajpatare/blob/output/github-contribution-grid-snake.svg" width="100%" /> |
 
-## 🧰 Tech stack (hover for focus)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,docker,linux,fastapi,flask,tf" alt="tech stack" />
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&theme=radical&hide_border=true&background=00000000" width="80%" />
 
-## 📂 Featured Projects (interactive cards)
+</div>
 
-> **Drop screenshots or short GIFs into `assets/` and replace the placeholders below**  
-> Example file paths used: `assets/careercrafter.gif`, `assets/ingrescan.gif`, `assets/kaizuna.gif`
+<br/>
 
-<details>
-<summary><strong>CareerCrafter — Smart Career Guidance</strong></summary>
+## 💾 Save Data (Projects)
 
-**What:** Personalized career guidance platform combining predictive analytics + generative AI.  
-**Tech:** Python, FastAPI, LangChain, Hugging Face, React, Vercel.  
-**Live:** https://career-crafter-nine.vercel.app  
-**Repo:** https://github.com/shivrajpatare/CareerCrafter
+| **Project Name** | **Description** | **Tech Used** |
+| :--- | :--- | :--- |
+| **🌌 NLP Research** | Transformer-based architectures for advanced text analysis. | `PyTorch` `Transformers` |
+| **👁️ Vision Pipeline** | End-to-end image classification system with deployment. | `TensorFlow` `OpenCV` |
+| **🤖 LLM Agent** | Prototype for autonomous reasoning and task execution. | `LangChain` `OpenAI` |
 
-<p float="left">
-  <img src="./assets/careercrafter.gif" alt="CareerCrafter Demo" width="420" style="border-radius:8px;"/>
-  <img src="./assets/careercrafter-arch.svg" alt="Architecture" width="240" style="border-radius:8px; margin-left:12px;"/>
-</p>
+<br/>
 
-**Quick demo commands**
-```bash
-# clone and run (example)
-git clone https://github.com/shivrajpatare/CareerCrafter.git
-cd CareerCrafter
-pip install -r requirements.txt
-# set env vars and run
-uvicorn app.main:app --reload
+<div align="center">
+
+## 🎮 Connect Player
+
+<a href="https://linkedin.com/in/shivrajpatare">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shivrajpatare.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/shivrajpatare">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
