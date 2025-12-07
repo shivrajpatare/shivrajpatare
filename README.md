@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=300&section=header&text=Shivraj%20Patare&fontSize=90&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Researcher&descAlign=50&descAlignY=55&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=300&section=header&text=Shivraj%20Patare&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer&descAlignY=60&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
   
   <br/>
   
@@ -43,7 +43,7 @@ I am a Master's student specializing in **Artificial Intelligence & Machine Lear
 
 | **Commits & PRs** | **Contribution Snake** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" /> | <img src="https://github.com/shivrajpatare/shivrajpatare/blob/output/github-contribution-grid-snake.svg" width="100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" /> | <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game (Runs Daily)" /> |
 
 <br/>
 
