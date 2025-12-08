@@ -131,13 +131,26 @@ class ShivrajPatare:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=00F260&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&theme=radical&hide_border=true&background=0D1117&ring=00F260&fire=FFA500&currStreakLabel=00F260" width="49%" alt="GitHub Streak" />
+<a href="https://github.com/shivrajpatare">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=00F260&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/shivrajpatare">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajpatare&theme=radical&hide_border=true&background=0D1117&ring=00F260&fire=FFA500&currStreakLabel=00F260" alt="GitHub Streak"/>
+</a>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatare&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajpatare&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F260&line=00F260&point=FFFFFF" width="49%" alt="Contribution Graph" />
+<div align="center">
+
+<a href="https://github.com/shivrajpatare">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajpatare&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&text_color=FFFFFF&langs_count=10&exclude_repo=shivrajpatare" alt="Top Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivrajpatare&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F260&line=00F260&point=FFFFFF&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -157,13 +170,17 @@ class ShivrajPatare:
 
 <div align="center">
 
-<a href="https://github.com/shivrajpatare/nlp-research">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajpatare&repo=nlp-research&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=00F260&text_color=FFFFFF" width="49%" alt="NLP Research" />
+<!-- Replace the repo names below with your actual repositories -->
+<a href="https://github.com/shivrajpatare?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajpatare&repo=shivrajpatare&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=00F260&text_color=FFFFFF&show_owner=true" alt="Profile Repo" />
 </a>
 
-<a href="https://github.com/shivrajpatare/vision-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajpatare&repo=vision-pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=00F260&text_color=FFFFFF" width="49%" alt="Vision Pipeline" />
-</a>
+</div>
+
+<div align="center">
+<br/>
+
+**🎯 Explore more projects on my [GitHub Repositories](https://github.com/shivrajpatare?tab=repositories)**
 
 </div>
 
