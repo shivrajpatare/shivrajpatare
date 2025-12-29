@@ -8,31 +8,31 @@
 
 ### 🚀 About Me
 
-I am a passionate **AI/ML Engineer** dedicated to building scalable, production-grade machine learning systems. With a Master's in AI & Machine Learning, I focus on bridging the gap between research and real-world deployment.
+I am a results-driven **AI/ML Engineer** specializing in the development and deployment of production-grade machine learning systems. My work focuses on Large Language Models (LLMs), MLOps, and scalable AI architectures.
 
-- 🔭 **Currently working on:** Production-grade LLM applications with vLLM.
-- 🌱 **Learning:** Multimodal models and efficient inference techniques.
-- 💬 **Ask me about:** LLM Fine-tuning (LoRA/QLoRA), RAG, and MLOps.
-- 📫 **Reach me at:** [shivrajpatare.work@gmail.com](mailto:shivrajpatare.work@gmail.com)
+- 🔭 **Current Focus:** Building high-performance LLM applications using vLLM and RAG.
+- 🌱 **Exploring:** Multimodal AI and efficient model quantization techniques.
+- 💡 **Philosophy:** Bridging the gap between advanced AI research and scalable production environments.
+- 📫 **Connect:** [shivrajpatare.work@gmail.com](mailto:shivrajpatare.work@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Category** | **Tools & Technologies** |
+| **Domain** | **Technologies** |
 | :--- | :--- |
-| **AI / ML** | `PyTorch` `TensorFlow` `HuggingFace` `Scikit-learn` `OpenCV` |
-| **MLOps** | `Docker` `Kubernetes` `AWS` `MLflow` |
-| **Languages** | `Python` `C++` |
-| **Backend** | `FastAPI` `PostgreSQL` |
+| **AI & Deep Learning** | `PyTorch` `TensorFlow` `HuggingFace` `OpenCV` `Scikit-learn` |
+| **MLOps & Infrastructure** | `Docker` `Kubernetes` `AWS` `MLflow` `CI/CD` |
+| **Languages** | `Python` `C++` `SQL` |
+| **Backend & Data** | `FastAPI` `PostgreSQL` `Redis` |
 
 </div>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivrajpatare&show_icons=true&theme=transparent&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&include_all_commits=true&count_private=true" />
@@ -45,28 +45,32 @@ I am a passionate **AI/ML Engineer** dedicated to building scalable, production-
 
 ---
 
-### 🤝 Connect with Me
+### 🐍 Contribution Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" />
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/shivrajpatare">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/shivrajpatare">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:shivrajpatare.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="60%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Shivraj Patare</sub>
+  <sub>© 2024 Shivraj Patare • Built for Performance & Impact</sub>
 </div>
