@@ -13,7 +13,6 @@
 ███████║██║  ██║██║ ╚████╔╝ 
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-> Name: Shivraj Patare
 > Role: AI & ML
 > Mission: Build Intelligent, Scalable AI Systems
 
