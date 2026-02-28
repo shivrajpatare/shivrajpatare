@@ -36,13 +36,6 @@ class ShivrajPatare:
 
 ### Contribution Journey
 <div align="center"> <img src="https://raw.githubusercontent.com/shivrajpatare/shivrajpatare/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="80%" /> </div>
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivrajpatare&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shivrajpatare&icon=9&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
