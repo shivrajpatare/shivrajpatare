@@ -1,6 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently building LLM + RAG systems and financial AI pipelines  <br>🤝 I’m looking to collaborate on AI agents and production ML systems  <br>🛠 I’m looking for help with scaling inference and efficient deployment  <br>🌱 I’m currently learning advanced model optimization & multimodal AI  <br>💬 Ask me about LLM architectures, RAG workflows, and automation systems  <br>⚡ Fun fact: I try to automate every repetitive task I touch
+<div align="center">
 
+# Hey there! I'm **Shivraj Patare** 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Production+ML+Systems;LLM+Fine-tuning+%26+Deployment;MLOps+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
+
+<br />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shivrajpatare&color=2ECC71&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shivrajpatare)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I am a results-driven **AI/ML Engineer** specializing in the development and deployment of production-grade machine learning systems. My work focuses on Large Language Models (LLMs), MLOps, and scalable AI architectures.
+
+```python
+class ShivrajPatare:
+    def __init__(self):
+        self.role       = "AI / ML Engineer"
+        self.focus      = ["LLMs", "RAG Systems", "MLOps"]
+        self.exploring  = ["Multimodal AI", "Model Quantization", "Edge Deployment"]
+        self.fun_fact   = "I automate everything—including my research workflow 🤖"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@shivrajpatare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivrajpatare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivrajpatare.work@gmail.com) 
