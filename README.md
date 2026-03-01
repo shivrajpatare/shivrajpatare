@@ -5,14 +5,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Shivraj+Patare...;AI+%2F+ML+Engineer;Building+Agentic+Systems;Automating+Intelligence;Engineering+Impact" alt="Typing Animation"/>
     </div>
 
-<pre>
-███████╗██╗  ██╗██╗██╗   ██╗
-██╔════╝██║  ██║██║██║   ██║
-███████╗███████║██║██║   ██║
-╚════██║██╔══██║██║╚██╗ ██╔╝
-███████║██║  ██║██║ ╚████╔╝ 
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  
-</pre>
+███████╗██╗  ██╗██╗██╗   ██╗██████╗  █████╗      ██╗
+██╔════╝██║  ██║██║██║   ██║██╔══██╗██╔══██╗     ██║
+███████╗███████║██║██║   ██║██████╔╝███████║     ██║
+╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║
+███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
 
 > Role: MSc Student in AI & ML
 > Mission: Build Intelligent, Scalable AI Systems
