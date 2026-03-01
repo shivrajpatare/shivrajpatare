@@ -3,15 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=220&section=header&text=&fontSize=0" />
 </p>
 
-<!-- Typing Animation Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SHIVRAJ+PATARE" />
-</p>
+<pre align="center">
+  ███████╗██╗  ██╗██╗██╗   ██╗██████╗  █████╗      ██╗██████╗  █████╗ ████████╗ █████╗ ██████╗ ███████╗
+██╔════╝██║  ██║██║██║   ██║██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔════╝
+███████╗███████║██║██║   ██║██████╔╝███████║     ██║██████╔╝███████║   ██║   ███████║██████╔╝█████╗  
+╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║██╔═══╝ ██╔══██║   ██║   ██╔══██║██╔══██╗██╔══╝  
+███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝██║     ██║  ██║   ██║   ██║  ██║██║  ██║███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
 
-<!-- Tagline -->
-<h3 align="center" style="color:#00ff41;">
-  Automating Intelligence
-</h3>
+<!-- Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Automating+Intelligence;Engineering+AI+Systems;Building+Scalable+ML;From+Models+to+Production;Designing+Intelligent+Automation" />
+</p>
 
 Building scalable AI systems that move from research prototypes to real-world deployment.
 
