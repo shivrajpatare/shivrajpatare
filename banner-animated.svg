@@ -1,82 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
-  <!-- GitHub-friendly animated neon banner (no prolog, simple SMIL only) -->
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0f; }
 
-  <!-- background -->
-  <rect width="1200" height="260" fill="#071129"/>
+      text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 8.5px;
+        font-weight: bold;
+        white-space: pre;
+      }
 
-  <!-- twinkling stars -->
-  <g id="stars">
-    <circle cx="80" cy="40" r="1.8" fill="#ffffff" opacity="0.9">
-      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="220" cy="28" r="1.6" fill="#fff" opacity="0.8">
-      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" repeatCount="indefinite" begin="0.4s"/>
-    </circle>
-    <circle cx="400" cy="18" r="1.4" fill="#fff" opacity="0.85">
-      <animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" repeatCount="indefinite" begin="0.8s"/>
-    </circle>
-    <circle cx="560" cy="45" r="1.6" fill="#fff" opacity="0.7">
-      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" repeatCount="indefinite" begin="0.25s"/>
-    </circle>
-    <circle cx="900" cy="36" r="1.7" fill="#fff" opacity="0.9">
-      <animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.2s" repeatCount="indefinite" begin="0.6s"/>
-    </circle>
+      .r0 { fill: #ff0080; }
+      .r1 { fill: #ff4040; }
+      .r2 { fill: #ff8800; }
+      .r3 { fill: #ffdd00; }
+      .r4 { fill: #aaff00; }
+      .r5 { fill: #00ffaa; }
+      .r6 { fill: #00ccff; }
+      .r7 { fill: #aa88ff; }
+
+      .line { opacity: 0; }
+
+      .line:nth-child(1)  { animation: fadeIn 0.4s ease forwards 0.1s; }
+      .line:nth-child(2)  { animation: fadeIn 0.4s ease forwards 0.4s; }
+      .line:nth-child(3)  { animation: fadeIn 0.4s ease forwards 0.7s; }
+      .line:nth-child(4)  { animation: fadeIn 0.4s ease forwards 1.0s; }
+      .line:nth-child(5)  { animation: fadeIn 0.4s ease forwards 1.3s; }
+      .line:nth-child(6)  { animation: fadeIn 0.4s ease forwards 1.6s; }
+      .line:nth-child(7)  { animation: fadeIn 0.4s ease forwards 1.9s; }
+      .line:nth-child(8)  { animation: fadeIn 0.4s ease forwards 2.2s; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateX(-6px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+
+      .glow-box {
+        opacity: 0;
+        animation: glowPulse 3s ease-in-out infinite 2.8s;
+      }
+
+      @keyframes glowPulse {
+        0%,100% { opacity: 0.4; }
+        50%      { opacity: 1; }
+      }
+
+      .subtitle {
+        fill: #445566;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 9px;
+        letter-spacing: 4px;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards 2.6s;
+      }
+    </style>
+
+    <!-- Glow filters -->
+    <filter id="glow-pink" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-cyan" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="120" rx="6"/>
+
+  <!-- Grid lines subtle -->
+  <g stroke="rgba(0,200,255,0.04)" stroke-width="1">
+    <line x1="0" y1="20" x2="900" y2="20"/>
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="100" x2="900" y2="100"/>
+    <line x1="100" y1="0" x2="100" y2="120"/>
+    <line x1="200" y1="0" x2="200" y2="120"/>
+    <line x1="300" y1="0" x2="300" y2="120"/>
+    <line x1="400" y1="0" x2="400" y2="120"/>
+    <line x1="500" y1="0" x2="500" y2="120"/>
+    <line x1="600" y1="0" x2="600" y2="120"/>
+    <line x1="700" y1="0" x2="700" y2="120"/>
+    <line x1="800" y1="0" x2="800" y2="120"/>
   </g>
 
-  <!-- subtle moving vignette bar to suggest motion -->
-  <rect x="-600" y="0" width="600" height="260" fill="#0af" opacity="0.03">
-    <animate attributeName="x" from="-600" to="1200" dur="7s" repeatCount="indefinite"/>
-  </rect>
+  <!-- ASCII Art lines — each row a different color, animated in sequence -->
+  <text class="line r0" x="8" y="21"  filter="url(#glow-pink)">███████╗██╗  ██╗██╗██╗   ██╗██████╗  █████╗      ██╗ ██████╗  █████╗ ████████╗ █████╗ ██████╗ ███████╗</text>
+  <text class="line r1" x="8" y="31" >██╔════╝██║  ██║██║██║   ██║██╔══██╗██╔══██╗     ██║ ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔════╝</text>
+  <text class="line r2" x="8" y="41" >███████╗███████║██║██║   ██║██████╔╝███████║     ██║ ██████╔╝███████║   ██║   ███████║██████╔╝█████╗  </text>
+  <text class="line r3" x="8" y="51" >╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║ ██╔═══╝ ██╔══██║   ██║   ██╔══██║██╔══██╗██╔══╝  </text>
+  <text class="line r4" x="8" y="61" >███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝ ██║     ██║  ██║   ██║   ██║  ██║██║  ██║███████╗</text>
+  <text class="line r5" x="8" y="71"  filter="url(#glow-cyan)">╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝</text>
 
-  <!-- neon name - two layers to simulate glow (stroke + filled copy) -->
-  <g transform="translate(48,48)">
-    <!-- outer stroke (neon border) -->
-    <text x="0" y="70" font-family="Segoe UI, Roboto, Arial" font-weight="700" font-size="64" fill="none" stroke="#ff6bd6" stroke-width="3" stroke-linejoin="round" opacity="0.9">
-      Shivraj Patare
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3.2s" repeatCount="indefinite"/>
-    </text>
+  <!-- Divider line -->
+  <line class="line r6" x1="8" y1="82" x2="892" y2="82" stroke="#00ccff" stroke-width="0.5" opacity="0.5"/>
 
-    <!-- inner glow (solid fill) that flickers -->
-    <text x="0" y="70" font-family="Segoe UI, Roboto, Arial" font-weight="800" font-size="64" fill="#ff9be8" opacity="0.95">
-      Shivraj Patare
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" repeatCount="indefinite" begin="0.2s"/>
-    </text>
-
-    <!-- subtitle -->
-    <text x="0" y="110" font-family="Segoe UI, Roboto, Arial" font-size="18" fill="#9fe6ff" opacity="0.95">
-      Master's in Artificial Intelligence & Machine Learning
-    </text>
-
-    <!-- tech line with animated dots -->
-    <g transform="translate(0,140)">
-      <text x="0" y="0" font-family="Segoe UI, Roboto, Arial" font-size="16" fill="#bfe9ff">Research · NLP · Deep Learning · Deployments</text>
-      <circle cx="250" cy="-8" r="3" fill="#ff6bd6" opacity="0.9">
-        <animate attributeName="cy" values="-8;-14;-8" dur="1.1s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="270" cy="-8" r="3" fill="#9fe6ff" opacity="0.85">
-        <animate attributeName="cy" values="-8;-12;-8" dur="1.1s" repeatCount="indefinite" begin="0.18s"/>
-      </circle>
-    </g>
-  </g>
-
-  <!-- neon info box (sliding in/out) -->
-  <g transform="translate(720,60)">
-    <rect x="-12" y="-6" width="420" height="120" rx="10" fill="#062033" opacity="0.55"/>
-    <rect x="-12" y="-6" width="420" height="120" rx="10" stroke="#7df0ff" stroke-width="2" fill="none" opacity="0.45">
-      <animate attributeName="x" values="-20;0;-20" dur="6s" repeatCount="indefinite"/>
-    </rect>
-    <text x="4" y="12" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#dffbff">• Research-driven ML systems</text>
-    <text x="4" y="34" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#dffbff">• NLP / LLM experimentation</text>
-    <text x="4" y="56" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#dffbff">• End-to-end deployments</text>
-  </g>
-
-  <!-- subtle animated underline -->
-  <rect x="48" y="168" width="420" height="3" rx="2" fill="#7df0ff" opacity="0.7">
-    <animate attributeName="width" values="0;420;0" dur="6s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- small footer neon bar moving left-right -->
-  <rect x="0" y="252" width="1200" height="8" fill="#0ff" opacity="0.03">
-    <animate attributeName="x" from="0" to="-30" dur="4s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Subtitle -->
+  <text class="subtitle" x="50%" y="100" text-anchor="middle">// &lt; SHIVRAJ PATARE /&gt; — FULL STACK DEVELOPER</text>
 </svg>
