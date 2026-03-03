@@ -2,11 +2,6 @@
   <img src="./banner.gif" alt="Shivraj Patare" />
 </p>
 
-<!-- Animated Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Automating+Intelligence;Engineering+AI+Systems;Building+Scalable+ML;From+Models+to+Production;Designing+Intelligent+Automation" />
-</p>
-
 Building scalable AI systems that move from research prototypes to real-world deployment.
 
 🎓 Master's Student in Artificial Intelligence & Machine Learning  
