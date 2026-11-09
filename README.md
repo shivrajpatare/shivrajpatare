@@ -1,11 +1,12 @@
-<p align="center">
+ <p align="center">
   <img
-    src="Animated Pixel Cat GitHub Banner Grid.gif"
+    src="Animated%20Pixel%20Cat%20GitHub%20Banner%20Grid.gif"
     alt="Shivraj's GitHub Banner"
     width="100%"
   />
 </p>
-<div># AYO, WHAT'S GOOD? I'M SHIVRAJ.
+
+<h1 align="center">AYO, WHAT'S GOOD? I'M SHIVRAJ.</h1>
 
 <div align="center">
 
@@ -13,52 +14,72 @@
 
 **AI ENGINEER · BUILDER · PROFESSIONAL OVERTHINKER**
 
-`[ THINK ]` ` [ BUILD ]` ` [ BREAK ]` ` [ REPEAT ]`
+`[ THINK ]` · `[ BUILD ]` · `[ BREAK ]` · `[ REPEAT ]`
 
 *Somewhere between artificial intelligence and questionable life decisions.*
 
-[Portfolio](https://shivrajpatare-cli.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shivrajpatare/)
+<a href="https://shivrajpatare-cli.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/shivrajpatare/">LinkedIn</a>
 
 </div>
 
 ---
 
-### `01 // WHO'S THIS DUDE?`
+<h3 align="center">01 // WHO'S THIS DUDE?</h3>
 
-yo yo, I'm Shivraj — an AI & ML graduate eng.. who spends way too much time turning random ideas into projects.
+<p align="center">
+  Ayo, I'm Shivraj — an AI & ML graduate who spends way too much time turning random ideas into actual projects.
+</p>
 
-Into intelligent systems, GenAI, multimodal AI, software engineering and figuring out how things work under the hood.
+<p align="center">
+  Into intelligent systems, GenAI, multimodal AI, software engineering and figuring out how things work under the hood.
+</p>
 
-I like asking weird questions, experimenting with ideas and building things that actually do something useful.
+<p align="center">
+  I like asking weird questions, experimenting with ideas and building things that actually do something useful.
+</p>
 
-**Basically, curiosity got hands and I gave it a keyboard.**
+<p align="center">
+  <strong>Basically, curiosity got hands and I gave it a keyboard.</strong>
+</p>
 
-### `02 // THE TOOLBOX`
+<h3 align="center">02 // THE TOOLBOX</h3>
 
-`Python` · `JavaScript` · `SQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,pytorch,react,nodejs,fastapi,flask,postgres,supabase,redis,docker&perline=6" alt="Python, JavaScript, PyTorch, React, Node.js, FastAPI, Flask, PostgreSQL, Supabase, Redis and Docker" />
+</p>
 
-`PyTorch` · `Hugging Face` · `YOLOv8`
+<p align="center">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/yolo/111111" height="42" alt="YOLO" />
+</p>
 
-`LLMs` · `RAG` · `AI Agents` · `Computer Vision`
+<p align="center">
+  LLMs · RAG · Agentic AI · Multimodal AI · Computer Vision
+</p>
 
-`FastAPI` · `Flask` · `React` · `Node.js`
+<h3 align="center">03 // CURRENTLY COOKING</h3>
 
-`PostgreSQL` · `Supabase` · `Redis` · `Docker`
+<p align="center">
+  Exploring Agentic AI and multimodal systems.<br>
+  Building practical AI-powered applications.<br>
+  Experimenting with ideas that probably started at 2 AM.<br>
+  Learning things, breaking things, fixing things. You know the drill.
+</p>
 
-### `03 // CURRENTLY COOKING`
+<h3 align="center">04 // BEYOND THE CODE</h3>
 
-- Exploring Agentic AI and multimodal systems.
-- Building practical AI-powered applications.
-- Experimenting with ideas that probably started at 2 AM.
-- Learning things, breaking things, fixing things. You know the drill.
+<p align="center">
+  Into writing, philosophy, research, technology and questioning things that probably didn't need questioning.
+</p>
 
-### `04 // BEYOND THE CODE`
+<p align="center">
+  Interested in how AI shapes people, society and the future.
+</p>
 
-Into writing, philosophy, research, technology and questioning things that probably didn't need questioning.
-
-Interested in how AI shapes people, society and the future.
-
-Not just building the next thing. Trying to understand why it matters.
+<p align="center">
+  Not just building the next thing. Trying to understand why it matters.
+</p>
 
 ---
 
