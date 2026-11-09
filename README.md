@@ -18,7 +18,7 @@
 
 ### `01 // WHO'S THIS DUDE?`
 
-Ayo, I'm Shivraj — an AI & ML graduate who spends way too much time turning random ideas into actual projects.
+yo yo, I'm Shivraj — an AI & ML graduate eng.. who spends way too much time turning random ideas into projects.
 
 Into intelligent systems, GenAI, multimodal AI, software engineering and figuring out how things work under the hood.
 
