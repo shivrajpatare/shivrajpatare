@@ -42,7 +42,7 @@
 
 ---
 
-<h2 align="center">02 / THE TECH STACK</h2>
+<h2>02 / THE TECH STACK</h2>
 
 <h3 align="center">AI / GENAI / AGENTS</h3>
 
