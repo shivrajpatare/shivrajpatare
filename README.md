@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src=".shivraj-thinking-github-banner.gif"
+    src="Animated Pixel Cat GitHub Banner Grid.gif"
     alt="Shivraj's GitHub Banner"
     width="100%"
   />
