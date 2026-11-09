@@ -1,118 +1,74 @@
-<p align="left">
-  <img src="./banner.gif" alt="Shivraj Patare" />
-  </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="15%" />
-    </td>
-</p>
+# AYO, WHAT'S GOOD? I'M SHIVRAJ.
 
-Building scalable AI systems that move from research prototypes to real-world deployment.
+<div align="center">
 
-🎓 Master's Student in Artificial Intelligence & Machine Learning  
-⚙️ Focused on LLM Systems, Applied ML, and MLOps  
-🚀 Passionate about building intelligent systems that create measurable impact  
+### `SHIV.EXE // SYSTEM ONLINE`
 
----
+**AI ENGINEER · BUILDER · PROFESSIONAL OVERTHINKER**
 
-## 🧠 About Me
+`[ THINK ]` ` [ BUILD ]` ` [ BREAK ]` ` [ REPEAT ]`
 
-I specialize in designing and deploying AI systems that go beyond experimentation.  
-My work focuses on bridging the gap between research models and production-ready solutions.
+*Somewhere between artificial intelligence and questionable life decisions.*
 
-I am particularly interested in:
-- Large Language Models & Retrieval-Augmented Generation (RAG)
-- ML system design & scalable inference
-- End-to-end AI application development
-- Automation through intelligent architectures
+[Portfolio](https://shivrajpatare-cli.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shivrajpatare/)
+
+</div>
 
 ---
 
-## ⭐ Featured Projects
+### `01 // WHO'S THIS DUDE?`
 
-### 🔹 AI Research Assistant (RAG System)
-A document intelligence system powered by retrieval-augmented generation.
-- Built with LangChain + Vector Database
-- Reduced document retrieval latency by 60%
-- Designed modular pipeline for scalable deployment
-- Deployed using FastAPI + Docker
+Ayo, I'm Shivraj — an AI & ML graduate who spends way too much time turning random ideas into actual projects.
 
----
+Into intelligent systems, GenAI, multimodal AI, software engineering and figuring out how things work under the hood.
 
-### 🔹 Time-Series Forecasting Engine
-A predictive modeling system for structured temporal data.
-- Feature engineering + model ensembling
-- Improved baseline accuracy by 18%
-- Designed reproducible experimentation workflow
+I like asking weird questions, experimenting with ideas and building things that actually do something useful.
 
----
+**Basically, curiosity got hands and I gave it a keyboard.**
 
-### 🔹 End-to-End ML Deployment Pipeline
-Automated training and deployment workflow.
-- CI/CD integration for retraining
-- Containerized model serving
-- Cloud-ready architecture
-- Monitoring-ready inference setup
+### `02 // THE TOOLBOX`
 
----
+`Python` · `JavaScript` · `SQL`
 
-## 🛠 Technical Stack
+`PyTorch` · `Hugging Face` · `YOLOv8`
 
-### Languages
-Python • C++ • SQL
+`LLMs` · `RAG` · `AI Agents` · `Computer Vision`
 
-### Machine Learning
-PyTorch • TensorFlow • Scikit-learn • XGBoost
+`FastAPI` · `Flask` · `React` · `Node.js`
 
-### LLM & AI Systems
-LangChain • RAG Architectures • Vector Databases • OpenAI APIs
+`PostgreSQL` · `Supabase` · `Redis` · `Docker`
 
-### MLOps & Deployment
-Docker • FastAPI • GitHub Actions • CI/CD Pipelines
+### `03 // CURRENTLY COOKING`
 
-### Cloud & Infrastructure
-AWS • GCP
+- Exploring Agentic AI and multimodal systems.
+- Building practical AI-powered applications.
+- Experimenting with ideas that probably started at 2 AM.
+- Learning things, breaking things, fixing things. You know the drill.
+
+### `04 // BEYOND THE CODE`
+
+Into writing, philosophy, research, technology and questioning things that probably didn't need questioning.
+
+Interested in how AI shapes people, society and the future.
+
+Not just building the next thing. Trying to understand why it matters.
 
 ---
 
-## 🔬 Currently Exploring
+<div align="center">
 
-- Agentic AI systems
-- Multi-modal learning architectures
-- Efficient fine-tuning techniques (LoRA, PEFT)
-- Scalable inference optimization
+### `AIGHT, THAT'S ME.`
 
----
+```text
+STATUS       : ONLINE
+BRAIN        : TOO MANY TABS OPEN
+CURIOSITY    : UNLIMITED
+CURRENT TASK : FIGURING IT OUT
+NEXT UPDATE  : SOON™
+```
 
-## 🧩 Engineering Philosophy
+**STAY CURIOUS. KEEP COOKING.**
 
-I focus on building AI systems that:
+`SHIV.EXE // END OF TRANSMISSION`
 
-- Move beyond notebooks into production  
-- Are modular, scalable, and reproducible  
-- Solve real-world problems with measurable outcomes  
-- Prioritize clarity, efficiency, and maintainability  
-
-AI should not just be intelligent — it should be deployable.
-
----
-
-## 📈 What I’m Looking For
-
-I’m open to:
-- AI research collaborations
-- ML engineering roles
-- High-impact AI startups
-- System-focused AI development opportunities
-
----
-
-## 🤝 Let’s Connect
-
-If you're building intelligent systems or working on impactful AI problems,  
-I'd love to collaborate.
-
-📫 Email: shivrajpatare.work@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/shivrajpatare 
-🌐 Portfolio: https://shivrajpatare-cli.vercel.app/ 
-
----
+</div>
