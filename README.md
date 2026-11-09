@@ -9,7 +9,7 @@
 <h1 align="center">AYO, WHAT'S GOOD? I'M SHIVRAJ.</h1>
 
 <p align="center">
-  <strong>AI ENGINEER · BUILDER · PROFESSIONAL OVERTHINKER</strong>
+  <strong>AI ENGINEER</strong>
 </p>
 
 <p align="center">
