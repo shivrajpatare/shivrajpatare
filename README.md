@@ -49,57 +49,59 @@
     <td width="50%" valign="top">
       <h3 align="center">AI / GENAI / AGENTS</h3>
 
-      <p align="center">
-        <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="36" alt="ChatGPT"/></a>&nbsp;
-        <a href="https://claude.ai/" title="Claude"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="36" alt="Claude"/></a>&nbsp;
-        <a href="https://cursor.com/" title="Cursor"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="36" alt="Cursor"/></a>&nbsp;
-        <a href="https://openai.com/codex/" title="Codex"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" height="36" alt="Codex"/></a>
-      </p>
+      
+<h2 align="center">02 / THE TECH STACK</h2>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">AI / GENAI / AGENTS</h3>
+<p align="center">
+<a href="https://chatgpt.com/" title="ChatGPT"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/openai.png" height="38" alt="ChatGPT"/></a>&nbsp;
+<a href="https://claude.ai/" title="Claude"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/claude.png" height="38" alt="Claude"/></a>&nbsp;
+<a href="https://cursor.com/" title="Cursor"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/cursor.png" height="38" alt="Cursor"/></a>&nbsp;
+<a href="https://openai.com/codex/" title="Codex"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/codex.png" height="38" alt="Codex"/></a>
+</p>
+<p align="center">
+<a href="https://code.claude.com/" title="Claude Code"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/claude-code.png" height="38" alt="Claude Code"/></a>&nbsp;
+<a href="https://antigravity.google/" title="Antigravity"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/antigravity.png" height="38" alt="Antigravity"/></a>&nbsp;
+<a href="https://gemini.google.com/" title="Gemini"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/gemini.png" height="38" alt="Gemini"/></a>&nbsp;
+<a href="https://opencode.ai/" title="OpenCode"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/open-code.png" height="38" alt="OpenCode"/></a>
+</p>
+<p align="center">
+<a href="https://lovable.dev/" title="Lovable"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/lovable.png" height="38" alt="Lovable"/></a>&nbsp;
+<a href="https://ai.meta.com/" title="Meta Muse"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/muse.png" height="38" alt="Muse"/></a>&nbsp;
+<a href="https://grok.com/" title="Grok"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/grok.png" height="38" alt="Grok"/></a>&nbsp;
+<a href="https://grok.com/" title="Grok Bot"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/grok-bot.png" height="38" alt="Grok Bot"/></a>
+</p>
+<h4 align="center">MODELS · LOCAL AI · AUTOMATION</h4>
+<p align="center">
+<a href="https://huggingface.co/" title="Hugging Face"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/hugging-face.png" height="36" alt="Hugging Face"/></a>&nbsp;
+<a href="https://lmstudio.ai/" title="LM Studio"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/lm-studio.png" height="36" alt="LM Studio"/></a>&nbsp;
+<a href="https://ollama.com/" title="Ollama"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/ollama.png" height="36" alt="Ollama"/></a>&nbsp;
+<a href="https://n8n.io/" title="n8n"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/n8n.png" height="36" alt="n8n"/></a>
+</p>
+<p align="center">
+<a href="https://www.langchain.com/" title="LangChain"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/langchain.png" height="36" alt="LangChain"/></a>&nbsp;
+<a href="https://www.llamaindex.ai/" title="LlamaIndex"><img src="https://unpkg.com/@lobehub/icons-static-png@1.101.0/dark/llama-index.png" height="36" alt="LlamaIndex"/></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">ML / DEEP LEARNING / CV</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="PyTorch, TensorFlow, Scikit-learn and OpenCV"/>
+</p>
+<h4 align="center">LANGUAGES · FRAMEWORKS</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,flask&perline=4" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI and Flask"/>
+</p>
+<h4 align="center">DATABASES · DEVOPS · TOOLS</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,git,github,vscode,postman,aws,vercel&perline=4" alt="PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code, Postman, AWS and Vercel"/>
+</p>
+</td>
+</tr>
+</table>
 
-      <p align="center">
-        <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-code.svg" height="36" alt="Claude Code"/></a>&nbsp;
-        <a href="https://antigravity.google/" title="Antigravity"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" height="36" alt="Antigravity"/></a>&nbsp;
-        <a href="https://gemini.google.com/" title="Gemini"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="36" alt="Gemini"/></a>&nbsp;
-        <a href="https://opencode.ai/" title="OpenCode"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/open-code.svg" height="36" alt="OpenCode"/></a>
-      </p>
-
-      <p align="center">
-        <a href="https://lovable.dev/" title="Lovable"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable.svg" height="36" alt="Lovable"/></a>&nbsp;
-        <a href="https://ai.meta.com/" title="Muse"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/muse.svg" height="36" alt="Muse"/></a>&nbsp;
-        <a href="https://grok.com/" title="Grok"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok.svg" height="36" alt="Grok"/></a>&nbsp;
-        <a href="https://grok.com/" title="Grok Bot"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok-bot.svg" height="36" alt="Grok Bot"/></a>
-      </p>
-
-      <h4 align="center">MODELS · LOCAL AI · WORKFLOWS</h4>
-
-      <p align="center">
-        <a href="https://huggingface.co/" title="Hugging Face"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hugging-face.svg" height="36" alt="Hugging Face"/></a>&nbsp;
-        <a href="https://lmstudio.ai/" title="LM Studio"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lm-studio.svg" height="36" alt="LM Studio"/></a>&nbsp;
-        <a href="https://ollama.com/" title="Ollama"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="36" alt="Ollama"/></a>&nbsp;
-        <a href="https://n8n.io/" title="n8n"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n.svg" height="36" alt="n8n"/></a>
-      </p>
-
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">ML / COMPUTER VISION</h3>
-
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="PyTorch, TensorFlow, Scikit-learn and OpenCV"/>
-      </p>
-
-      <h4 align="center">LANGUAGES · FRAMEWORKS</h4>
-
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,flask&perline=4" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI and Flask"/>
-      </p>
-
-      <h4 align="center">DATABASES · TOOLS · INFRASTRUCTURE</h4>
-
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,git,github,vscode,postman,aws,vercel&perline=4" alt="PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code, Postman, AWS and Vercel"/>
-      </p>
-    </td>
   </tr>
 </table>
 
