@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src=".shivraj-thinking-github-banner.gif"
+    alt="Shivraj's GitHub Banner"
+    width="100%"
+  />
+</p>
 # AYO, WHAT'S GOOD? I'M SHIVRAJ.
 
 <div align="center">
