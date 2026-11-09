@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img
     src="Animated%20Pixel%20Cat%20GitHub%20Banner%20Grid.gif"
     alt="Shivraj's GitHub Banner"
@@ -44,64 +44,68 @@
 
 <h2 align="center">02 / THE TECH STACK</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AI / GENAI / AGENTS</h3>
+<h3 align="center">AI / GENAI / AGENTS</h3>
 
-      <p align="center">
-        <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="36" alt="ChatGPT"/></a>&nbsp;
-        <a href="https://claude.ai/" title="Claude"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="36" alt="Claude"/></a>&nbsp;
-        <a href="https://cursor.com/" title="Cursor"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="36" alt="Cursor"/></a>&nbsp;
-        <a href="https://openai.com/codex/" title="Codex"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" height="36" alt="Codex"/></a>
-      </p>
+<p align="center">
+  <a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
+  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/></a>
+  <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/></a>
+  <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
+  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-1F1F1F?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="OpenCode"/></a>
+  <a href="https://lovable.dev/"><img src="https://img.shields.io/badge/Lovable-FF4F7B?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable"/></a>
+  <a href="https://ai.meta.com/"><img src="https://img.shields.io/badge/Meta_Muse-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Muse"/></a>
+  <a href="https://grok.com/"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/></a>
+</p>
 
-      <p align="center">
-        <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-code.svg" height="36" alt="Claude Code"/></a>&nbsp;
-        <a href="https://antigravity.google/" title="Antigravity"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" height="36" alt="Antigravity"/></a>&nbsp;
-        <a href="https://gemini.google.com/" title="Gemini"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="36" alt="Gemini"/></a>&nbsp;
-        <a href="https://opencode.ai/" title="OpenCode"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/open-code.svg" height="36" alt="OpenCode"/></a>
-      </p>
+<h3 align="center">MODELS · LOCAL AI · WORKFLOWS</h3>
 
-      <p align="center">
-        <a href="https://lovable.dev/" title="Lovable"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable.svg" height="36" alt="Lovable"/></a>&nbsp;
-        <a href="https://ai.meta.com/" title="Muse"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/muse.svg" height="36" alt="Muse"/></a>&nbsp;
-        <a href="https://grok.com/" title="Grok"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok.svg" height="36" alt="Grok"/></a>&nbsp;
-        <a href="https://grok.com/" title="Grok Bot"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/grok-bot.svg" height="36" alt="Grok Bot"/></a>
-      </p>
+<p align="center">
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/LM_Studio-5B5BD6?style=for-the-badge&logo=lmstudio&logoColor=white" alt="LM Studio"/></a>
+  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+</p>
 
-      <h4 align="center">MODELS · LOCAL AI · WORKFLOWS</h4>
+<h3 align="center">ML / COMPUTER VISION</h3>
 
-      <p align="center">
-        <a href="https://huggingface.co/" title="Hugging Face"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/hugging-face.svg" height="36" alt="Hugging Face"/></a>&nbsp;
-        <a href="https://lmstudio.ai/" title="LM Studio"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lm-studio.svg" height="36" alt="LM Studio"/></a>&nbsp;
-        <a href="https://ollama.com/" title="Ollama"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="36" alt="Ollama"/></a>&nbsp;
-        <a href="https://n8n.io/" title="n8n"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n.svg" height="36" alt="n8n"/></a>
-      </p>
+<p align="center">
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+</p>
 
-    </td>
+<h3 align="center">LANGUAGES · FRAMEWORKS</h3>
 
-    <td width="50%" valign="top">
-      <h3 align="center">ML / COMPUTER VISION</h3>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+</p>
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="PyTorch, TensorFlow, Scikit-learn and OpenCV"/>
-      </p>
+<h3 align="center">DATABASES · TOOLS · INFRASTRUCTURE</h3>
 
-      <h4 align="center">LANGUAGES · FRAMEWORKS</h4>
-
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,flask&perline=4" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI and Flask"/>
-      </p>
-
-      <h4 align="center">DATABASES · TOOLS · INFRASTRUCTURE</h4>
-
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,git,github,vscode,postman,aws,vercel&perline=4" alt="PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code, Postman, AWS and Vercel"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+</p>
 
 ---
 
