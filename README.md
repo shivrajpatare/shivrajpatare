@@ -29,7 +29,7 @@
 <h2>01 / A LITTLE ABOUT ME</h2>
 
 <p>
-  Ayo, I'm Shivraj — an AI & ML graduate who spends way too much time turning random ideas into actual projects.
+  yo yo yo, It's shivraj — an AI & ML Engineer who spends way too much time turning random ideas into actual projects.
 </p>
 
 <p>
