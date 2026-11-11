@@ -134,9 +134,9 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
   <strong>STAY CURIOUS. KEEP BUILDING.</strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="koi.gif" alt="Pixel koi swimming" width="200" />
